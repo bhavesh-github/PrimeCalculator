@@ -10,7 +10,7 @@ The following guides illustrate how to use some features concretely for this spr
 
 * Java 1.8 
 * Maven 3.2.2
-* Springboot - 2.7.4
+* Springboot - 2.7.5
 
 **Run**
 * To build application, run "mvn clean && mvn install" in root folder of project
