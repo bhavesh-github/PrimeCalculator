@@ -26,13 +26,13 @@ The following guides illustrate how to use some features concretely for this spr
  
  **Example**
  
- -- Success:
- Request URL: http://localhost:8080/primenum?upperLimit=7
- Response: {"errorMessage":null,"statusCode":200,"success":true,"data":[2,3,5,7]}
+ * Success:
+ * Request URL: http://localhost:8080/primenum?upperLimit=7
+ * Response: {"errorMessage":null,"statusCode":200,"success":true,"data":[2,3,5,7]}
  
- -- Exception:
- Request URL: http://localhost:8080/primenum?upperLimit=3.14
- Response: {"errorMessage":"Please provide valid parameter(Whole number)","statusCode":400,"success":false,"data":null}
+ * Exception:
+ * Request URL: http://localhost:8080/primenum?upperLimit=3.14
+ * Response: {"errorMessage":"Please provide valid parameter(Whole number)","statusCode":400,"success":false,"data":null}
 
  **TO DO**
  - Add swagger definition 
