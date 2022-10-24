@@ -29,3 +29,5 @@ The following guides illustrate how to use some features concretely for this spr
  - Configure response based on request media type 
  - Introducing caching
  - Add more Test cases
+ - Add more Exception handling scenario 
+ - Externalizing exception messages
